@@ -43,6 +43,7 @@ import java.util.Map;
  *     <li>{@link org.bson.codecs.SymbolCodec}</li>
  *     <li>{@link org.bson.codecs.UuidCodec}</li>
  *     <li>{@link org.bson.codecs.ByteCodec}</li>
+ *     <li>{@link org.bson.codecs.PatternCodec}</li>
  *     <li>{@link org.bson.codecs.ShortCodec}</li>
  *     <li>{@link org.bson.codecs.ByteArrayCodec}</li>
  *     <li>{@link org.bson.codecs.FloatCodec}</li>
